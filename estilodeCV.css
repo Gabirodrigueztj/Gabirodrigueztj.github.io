@@ -1,0 +1,10 @@
+/* Aca Abajo se ubica El color de titulo y color de fondo */
+*{background-color: rgb(154, 199, 184);}
+    h1{color: rgb(55, 72, 67);}
+/* Aca abajo estan los dos selectores de ID */
+    #primerp{color: rgb(44, 41, 47);}
+    #fotito{border-radius: 1cm; color: rgb(9, 63, 45);}
+/* Aca abajo estan los selectores de clases  */
+.cursos{color: rgb(55, 55, 55);}
+.titulo{size: 10cm; color: rgb(227, 227, 237); background-color: rgb(0, 0, 0);}
+.negrita{size: 5cm; letter-spacing: 2px; border: 1px; color: blueviolet solid; color: white; background-color: black    ; }
